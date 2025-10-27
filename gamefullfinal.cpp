@@ -54,7 +54,7 @@ int main() {
     cout << "==============================\n";
     cout << "Enter game time (in seconds): ";
     cin >> gameTime;
-    cout << "Enter difficulty (1.Easy/2.Medium/3.Hard): ";
+    cout << "Enter difficulty (Easy/Medium/Hard): ";
     cin >> difficulty;
     cout << "\nSelect a map by clicking on the window...\n";
 
